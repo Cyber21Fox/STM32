@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>pic/reload.png</file>
+        <file>gh.ico</file>
+    </qresource>
+</RCC>
